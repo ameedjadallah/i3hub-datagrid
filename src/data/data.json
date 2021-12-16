@@ -1,0 +1,10 @@
+{
+    "tableHeadItems": [
+        "user",
+        "Contact Information",
+        "Registration Date",
+        "Country/Post Code",
+        "Images",
+        "Actions"
+    ]
+}
